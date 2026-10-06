@@ -1,0 +1,4 @@
+package: com.deeprf.pddp
+uses-permission: name='android.permission.INTERNET'
+permission: com.deeprf.pddp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission: name='com.deeprf.pddp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'

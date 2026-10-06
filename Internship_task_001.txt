@@ -1,0 +1,7 @@
+1. Assess the file.
+2. Give report on the security of the file.
+3. Decompile the file.
+4. Change the icon of the file.
+5. Recompile the file.
+6. Push the decompiled and the recompiled files and folders to GitHub.
+7. The GitHub repo should contain a readMe file on the tools used.

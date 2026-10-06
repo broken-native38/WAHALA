@@ -1,0 +1,1 @@
+PDDP.apk: Android package (APK), with gradle app-metadata.properties

@@ -1,0 +1,21 @@
+# Private Android signing keys — NEVER commit
+*.jks
+*.keystore
+*.p12
+*.key
+*.pem
+
+# Android signing artifacts
+*.idsig
+
+# Temporary backup directories
+recompiled/PDDP_backup/
+recompiled/icon_backup/
+res_backup/
+
+# Temporary/log files
+*.log
+
+# Local tool binaries
+apktool.jar
+apktool_3.0.3.jar
