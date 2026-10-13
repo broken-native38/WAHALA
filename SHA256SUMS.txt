@@ -1,0 +1,2 @@
+ae0e1dca4465a199ec6950a075d34180f112daf16f9e16d6d704f790612edc6f  original/PDDP.apk
+dd05d186381744522fb0f8040f58828ccd60398eaf4abdd6394bce658b2e6cd5  releases/PDDP-task6-signed.apk
