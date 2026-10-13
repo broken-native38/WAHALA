@@ -169,3 +169,15 @@ WAHALA/
 │   └── flutter_icon_backup.png
 └── documentation/
 ```
+
+## Task 6 release
+
+The signed Task 6 APK is available at
+[`releases/PDDP-task6-signed.apk`](releases/PDDP-task6-signed.apk).
+
+- Release notes: [`TASK6-RELEASE-NOTES.md`](TASK6-RELEASE-NOTES.md)
+- Testing report: [`docs/task6-testing-report.md`](docs/task6-testing-report.md)
+- SHA-256 checksums: [`SHA256SUMS.txt`](SHA256SUMS.txt)
+
+Check the published APK's SHA-256 against the checksum file before installing it.
+See the release notes for the changes, verification results, and testing limitations.
